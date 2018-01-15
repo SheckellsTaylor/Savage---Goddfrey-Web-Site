@@ -31,41 +31,45 @@ li:hover {
 
 *{padding:0px; margin:0px}
 #wrapper {
-background-color:gray;
+background-color:white;
 width:100vw;
+height:100vh;
 margin:auto;
 }
 header {
 background-color:gray;
-height:10vh;
+height:20vh;
+width:100vw;
 }
 nav {
 background-color:gray;
-height:2.5vh;
+height:15vh;
+width:100vw;
 }
 #leftside{
 background-color:gray;
 float:left;
 width:20vw;
 padding:2%;
-min-height: 42vh;
+height: 69vh;
 }
 section{
 background-color:white;
 float:left;
 width:48vw;
 padding:2%;
-min-height: 42vh;
+height: 69vh;
 }
 #rightside {
 background-color:gray;
 float:left;
 width:20vw;
 padding:2%;
-min-height: 42vh;
+height: 69vh;
 }
 footer{
 background-color: gray;
-height:2.5vh;
+height:10vh;
+width:100vw;
 clear:both;
 }
